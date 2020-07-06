@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World!
+
+I'm Ryuichiro Hataya, a PhD student at UTokyo.
+
+### News
+
+* Our paper [Faster AutoAugment: Learning Augmentation Strategies using Backpropagation](https://arxiv.org/abs/1911.06987) is accepted at ECCV 2020.
 
 <!--
 **moskomule/moskomule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

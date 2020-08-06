@@ -1,6 +1,6 @@
-### Hello World!
+### About!
 
-I'm Ryuichiro Hataya, a PhD student at UTokyo.
+I'm Ryuichiro Hataya, a PhD student at UTokyo/RA at RIKEN AIP. I am interested in Weakly-supervised Deep Learning.
 
 ### News
 

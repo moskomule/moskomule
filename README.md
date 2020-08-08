@@ -4,7 +4,7 @@ I'm Ryuichiro Hataya, a PhD student at UTokyo/RA at RIKEN AIP. I am interested i
 
 ### News
 
-* Our paper [Faster AutoAugment: Learning Augmentation Strategies using Backpropagation](https://arxiv.org/abs/1911.06987) is accepted at ECCV 2020.
+* Our paper [Faster AutoAugment: Learning Augmentation Strategies using Backpropagation](https://arxiv.org/abs/1911.06987) is accepted at ECCV 2020. Code is also [available](https://github.com/moskomule/dda/tree/fasteraa/faster_autoaugment).
 
 ### Stats
 

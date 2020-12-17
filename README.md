@@ -1,6 +1,6 @@
 ### About!
 
-I'm Ryuichiro Hataya, a PhD student at UTokyo (supervised by [Hideki Nakayama](https://twitter.com/n_hidekey)), RA at RIKEN AIP (supervised by [Kazyki Yoshizoe](https://sites.google.com/site/kyoshizoe/)), and RA at RIISE@UTokyo.
+I'm Ryuichiro Hataya, a PhD student at UTokyo (supervisor: [Hideki Nakayama](https://twitter.com/n_hidekey)), RA at RIKEN AIP (supervisor [Kazuki Yoshizoe](https://sites.google.com/site/kyoshizoe/)), and RA at RIISE@UTokyo.
 
 I am interested in Deep Learning from limited labeled data.
 

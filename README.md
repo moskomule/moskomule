@@ -1,15 +1,15 @@
 ### About!
 
-I'm Ryuichiro Hataya, a PhD student at UTokyo (supervisor: [Hideki Nakayama](https://twitter.com/n_hidekey)), RA at RIKEN AIP (supervisor [Kazuki Yoshizoe](https://sites.google.com/site/kyoshizoe/)), and RA at RIISE@UTokyo.
+I'm Ryuichiro Hataya, a PhD student at UTokyo (supervisor: [Hideki Nakayama](http://www.nlab.ci.i.u-tokyo.ac.jp/~nakayama/index.html)), RA at RIKEN AIP (supervisor: [Kazuki Yoshizoe](https://sites.google.com/site/kyoshizoe/)), and RA at RIISE@UTokyo.
 
 I am interested in Deep Learning from limited labeled data.
 
 ### News
 
-* My research proposals have been accepted by MSRA, and RIISE at UTokyo!
+* My research proposals have been accepted by JSPS, MSRA, and RIISE at UTokyo!
 * Our paper “Decomposing Normal and Abnormal Features of Medical Images for Content-based Image Retrieval” is accepted at ML4H 2020.
-* We will host a virtual NeurIPS meetup and Women in ML in Japan https://neuripsmeetupjapan.github.io!
-* Our research “MADAO: Meta Approach to Data Augmentation Optimization” won Best Student Paper Award at MIRU 2020. This is a preliminary work of [Meta Approach to Data Augmentation Optimization](https://arxiv.org/abs/2006.07965).
+* We hosted a virtual NeurIPS meetup and Women in ML in Japan https://neuripsmeetupjapan.github.io!
+* Our research “MADAO: Meta Approach to Data Augmentation Optimization” won the Best Student Paper Award at MIRU 2020. This is a preliminary work of [Meta Approach to Data Augmentation Optimization](https://arxiv.org/abs/2006.07965).
 * Our paper [Faster AutoAugment: Learning Augmentation Strategies using Backpropagation](https://arxiv.org/abs/1911.06987) is accepted at ECCV 2020. Code is also [available](https://github.com/moskomule/dda/tree/fasteraa/faster_autoaugment).
 
 ### Stats

@@ -6,6 +6,8 @@ I am interested in Deep Learning from limited labeled data. For more details, ch
 
 ### News
 
+* I will visit IIT in Genova, Italy from October. Ping me!
+* My research proposal has been accepted in ACT-X, JST.
 * I will serve as a meetup chair for NeurIPS 2021.
 * My research proposals have been accepted by JSPS, MSRA, and RIISE at UTokyo!
 * Our paper “Decomposing Normal and Abnormal Features of Medical Images for Content-based Image Retrieval” is accepted at ML4H 2020.

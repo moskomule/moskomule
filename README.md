@@ -6,6 +6,7 @@ I am interested in Deep Learning from limited labeled data. For more details, ch
 
 ### News
 
+* Our paper "Meta Approach to Data Augmentation Optimization" is acceted to WACV 2022.
 * I will visit IIT in Genova, Italy from October. Ping me!
 * My research proposal has been accepted in ACT-X, JST.
 * I will serve as a meetup chair for NeurIPS 2021.

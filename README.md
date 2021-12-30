@@ -6,8 +6,9 @@ I am interested in Deep Learning from limited labeled data. For more details, ch
 
 ### News
 
+* I am prmoted to Excellent Research Assistant @ UTokyo.
 * Our paper "Meta Approach to Data Augmentation Optimization" is acceted to WACV 2022.
-* I will visit IIT in Genova, Italy from October. Ping me!
+* I visited IIT in Genova, Italy from October to December.
 * My research proposal has been accepted in ACT-X, JST.
 * I will serve as a meetup chair for NeurIPS 2021.
 * My research proposals have been accepted by JSPS, MSRA, and RIISE at UTokyo!

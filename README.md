@@ -6,6 +6,7 @@ I am interested in Deep Learning from limited labeled data. For more details, ch
 
 ### News
 
+* Our paper "DJMix: Unsupervised Task-agnostic Image Augmentation for Improving Robustness of Convolutional Neural Networks" is accepted at IJCNN 2022.
 * I am prmoted to Excellent Research Assistant @ UTokyo.
 * Our paper "Meta Approach to Data Augmentation Optimization" is acceted to WACV 2022.
 * I visited IIT in Genova, Italy from October to December.

@@ -6,6 +6,7 @@ I am interested in Deep Learning from limited labeled data. For more details, ch
 
 ### News
 
+* I am visiting at IIT @ Genova.
 * I successfully defended my PhD thesis!
 * Our paper "DJMix: Unsupervised Task-agnostic Image Augmentation for Improving Robustness of Convolutional Neural Networks" is accepted at IJCNN 2022.
 * I am prmoted to Excellent Research Assistant @ UTokyo.

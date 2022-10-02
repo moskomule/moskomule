@@ -1,6 +1,6 @@
 ### About!
 
-I'm [Ryuichiro Hataya, PhD](mosko.tokyo), a postdoctoral researcher at RIKEN ADSD.
+I'm [Ryuichiro Hataya, PhD](mosko.tokyo), a postdoctoral researcher at RIKEN ADSP.
 
 ### News
 

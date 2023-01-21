@@ -6,12 +6,18 @@ I'm also a visiting researcher at International Center for Elementary Particle P
 
 ### News
 
+* I will visit EPFL CIS and Fraunhofer IIS from 8th to 15th March 2023.
+* Our paper "Nyström Method for Accurate and Scalable Implicit Differentiation" is accepted at AISTATS 2023.
 * I recieved a doctal degree as a representative student of the graduate school of Information Science and Techonology, UTokyo.
-* I am visiting at IIT @ Genova.
+
+<details>
+  <summary>Outdated Information</summary>
+* I visted at IIT @ Genova on July 2022.
 * I successfully defended my PhD thesis!
 * Our paper "DJMix: Unsupervised Task-agnostic Image Augmentation for Improving Robustness of Convolutional Neural Networks" is accepted at IJCNN 2022.
 * I am prmoted to Excellent Research Assistant @ UTokyo.
 * Our paper "Meta Approach to Data Augmentation Optimization" is acceted to WACV 2022.
+</details>
 
 ### Stats
 

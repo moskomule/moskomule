@@ -1,6 +1,6 @@
 ### About!
 
-I'm [Ryuichiro Hataya, PhD](https://mosko.tokyo), a postdoctoral researcher at RIKEN ADSP and RIKEN AIP.
+I'm [Ryuichiro Hataya, PhD](https://mosko.tokyo), a postdoctoral researcher at RIKEN AIP (High-Dimensional Causal Analysis Team).
 
 I'm also a visiting researcher at International Center for Elementary Particle Physics, UTokyo.
 

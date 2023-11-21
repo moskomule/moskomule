@@ -6,6 +6,7 @@ I'm also a visiting researcher at International Center for Elementary Particle P
 
 ### News
 
+* I will attend QTML @ Geneve🇨🇭.
 * I will visit Nicolaus Copernicus University Poland @ Torun🇵🇱 from Sep 25th to 30th and then attend ICCV @ Paris🇫🇷.
 * I will visit Okinawa Institute of Science and Technology🇯🇵 from Aug 29th to Sep 1st.
 * Our paper "[An Empirical Investigation of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration](https://arxiv.org/abs/2307.08187)" is accepted at ICCV 2023 Workshop on Uncertainty Quantification for Computer Vision.

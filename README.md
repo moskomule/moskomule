@@ -1,6 +1,6 @@
 ### About!
 
-I'm [Ryuichiro Hataya, PhD](https://mosko.tokyo), a postdoctoral researcher at RIKEN AIP (High-Dimensional Causal Analysis Team).
+I'm [Ryuichiro Hataya, PhD](https://mosko.tokyo), a postdoctoral researcher at RIKEN AIP ([High-Dimensional Causal Analysis Team](https://www.riken.jp/research/labs/aip/generic_tech/highdim_cause_anl/index.html)).
 
 I'm also a visiting researcher at International Center for Elementary Particle Physics, UTokyo.
 

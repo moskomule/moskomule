@@ -6,6 +6,7 @@ I'm also a visiting researcher at International Center for Elementary Particle P
 
 ### News
 
+* Our paper “Sketch-based Semantic Retrieval of Medical Images” (Kobayashi et al.) has been accepted at Medical Image Analysis.
 * I will attend QTML @ Geneve🇨🇭.
 * I will visit Nicolaus Copernicus University Poland @ Torun🇵🇱 from Sep 25th to 30th and then attend ICCV @ Paris🇫🇷.
 * I will visit Okinawa Institute of Science and Technology🇯🇵 from Aug 29th to Sep 1st.

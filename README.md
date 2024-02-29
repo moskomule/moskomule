@@ -2,10 +2,11 @@
 
 I'm [Ryuichiro Hataya, PhD](https://mosko.tokyo), a postdoctoral researcher at RIKEN AIP ([High-Dimensional Causal Analysis Team](https://www.riken.jp/research/labs/aip/generic_tech/highdim_cause_anl/index.html)).
 
-I'm also a visiting researcher at International Center for Elementary Particle Physics, UTokyo.
-
 ### News
 
+* I will attend FIMI @ Bristol🇬🇧.
+* I will attend DLWS @ Tokyo🇯🇵.
+* I will attend MLSS @ Okinawa🇯🇵 as an organizer.
 * Our paper “Sketch-based Semantic Retrieval of Medical Images” (Kobayashi et al.) has been accepted at Medical Image Analysis.
 * I will attend QTML @ Geneve🇨🇭.
 * I will visit Nicolaus Copernicus University Poland @ Torun🇵🇱 from Sep 25th to 30th and then attend ICCV @ Paris🇫🇷.

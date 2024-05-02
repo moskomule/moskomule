@@ -4,6 +4,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 
 ### News
 
+* Our paper "Self-attention Networks Localize When QK-eigenspectrum Concentrates" is accepted at ICML.
 * I will attend FIMI @ Bristol🇬🇧.
 * I will attend DLWS @ Tokyo🇯🇵.
 * I will attend MLSS @ Okinawa🇯🇵 as an organizer.

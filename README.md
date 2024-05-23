@@ -4,6 +4,8 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 
 ### News
 
+* I will visit Wien🇦🇹 to attend ICML.
+* I will visit A* @ Singapore🇸🇬.
 * Our paper "Self-attention Networks Localize When QK-eigenspectrum Concentrates" is accepted at ICML.
 * I will attend FIMI @ Bristol🇬🇧.
 * I will attend DLWS @ Tokyo🇯🇵.
@@ -19,7 +21,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 * I will visit Vietnam Institute for Advanced Study in Mathematics @ Ha Noi🇻🇳 on April 2023.
 * I will visit EPFL CIS @ Lausanne🇨🇭 and Fraunhofer IIS @ Nürnberg🇩🇪 from 8th to 15th March 2023.
 * Our paper "[Nyström Method for Accurate and Scalable Implicit Differentiation](https://arxiv.org/abs/2302.09726)" is accepted at AISTATS 2023.
-* I received a doctoral degree as a representative student of the graduate school of Information Science and Technology, UTokyo.
+* I received a doctoral degree as a representative student of the Graduate School of Information Science and Technology, UTokyo.
 * I visted at IIT @ Genova on July 2022.
 * I successfully defended my PhD thesis!
 * Our paper "DJMix: Unsupervised Task-agnostic Image Augmentation for Improving Robustness of Convolutional Neural Networks" is accepted at IJCNN 2022.

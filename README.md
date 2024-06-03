@@ -6,7 +6,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 
 * I will visit Wien🇦🇹 to attend ICML.
 * I will visit A*STAR CFAR @ Singapore🇸🇬.
-* Our paper "Self-attention Networks Localize When QK-eigenspectrum Concentrates" is accepted at ICML.
+* Our paper "[Self-attention Networks Localize When QK-eigenspectrum Concentrates](https://arxiv.org/abs/2402.02098)" is accepted at ICML.
 * I will attend FIMI @ Bristol🇬🇧.
 * I will attend DLWS @ Tokyo🇯🇵.
 * I will attend MLSS @ Okinawa🇯🇵 as an organizer.

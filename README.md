@@ -7,6 +7,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 * Our papers "Transformers as Stochastic Optimizers" (Hataya & Imaizumi) and "Automatic Domain Adaptation by Transformers in In-Context Learning" (Hataya & Matsui & Imaizumi) have been accepted at the ICML 2024 Workshop on In-Context Learning.
 * I will visit CENTAI @ Torino🇮🇹.
 * I will visit Wien🇦🇹 to attend ICML.
+* I will visit Aix-Marseille University @ Marseille🇫🇷.
 * I will visit A*STAR CFAR @ Singapore🇸🇬.
 * Our paper "[Self-attention Networks Localize When QK-eigenspectrum Concentrates](https://arxiv.org/abs/2402.02098)" is accepted at ICML.
 * I will attend FIMI @ Bristol🇬🇧.

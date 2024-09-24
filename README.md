@@ -4,6 +4,8 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 
 ### News
 
+* I will visit IIT @ Genova and Fondazione Bruno Kessler @ Trento🇮🇹.
+* I will attend ECCV to organize [ECCV 2024 Workshop The Dark Side of Generative AIs and Beyond](https://sites.google.com/view/darksideofgenaiandbeyond).
 * Our papers "Transformers as Stochastic Optimizers" (Hataya & Imaizumi) and "Automatic Domain Adaptation by Transformers in In-Context Learning" (Hataya & Matsui & Imaizumi) have been accepted at the ICML 2024 Workshop on In-Context Learning.
 * I will visit CENTAI @ Torino🇮🇹.
 * I will visit Wien🇦🇹 to attend ICML.
@@ -25,7 +27,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 * I will visit EPFL CIS @ Lausanne🇨🇭 and Fraunhofer IIS @ Nürnberg🇩🇪 from 8th to 15th March 2023.
 * Our paper "[Nyström Method for Accurate and Scalable Implicit Differentiation](https://arxiv.org/abs/2302.09726)" is accepted at AISTATS 2023.
 * I received a doctoral degree as a representative student of the Graduate School of Information Science and Technology, UTokyo.
-* I visted at IIT @ Genova on July 2022.
+* I visited IIT @ Genova in July 2022.
 * I successfully defended my PhD thesis!
 * Our paper "DJMix: Unsupervised Task-agnostic Image Augmentation for Improving Robustness of Convolutional Neural Networks" is accepted at IJCNN 2022.
 * I am promoted to Excellent Research Assistant @ UTokyo.

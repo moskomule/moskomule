@@ -4,7 +4,8 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), a postdoctoral researcher at 
 
 ### News
 
-* I will visit IIT @ Genova and Fondazione Bruno Kessler @ Trento🇮🇹.
+* I will attend ERCIM/JST Joint Workshop 2024 @Budapest🇭🇺.
+* I will visit IIT @ Genova, University of Trento and Fondazione Bruno Kessler @ Trento🇮🇹.
 * I will attend ECCV to organize [ECCV 2024 Workshop The Dark Side of Generative AIs and Beyond](https://sites.google.com/view/darksideofgenaiandbeyond).
 * Our papers "Transformers as Stochastic Optimizers" (Hataya & Imaizumi) and "Automatic Domain Adaptation by Transformers in In-Context Learning" (Hataya & Matsui & Imaizumi) have been accepted at the ICML 2024 Workshop on In-Context Learning.
 * I will visit CENTAI @ Torino🇮🇹.

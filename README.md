@@ -4,6 +4,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), senior research scientist at 
 
 ### News
 
+* I will visit Nicolaus Copernicus University @ Torun, Poland🇵🇱.
 * I will visit The University of Melbourne🇦🇺.
 * I will attend ERCIM/JST Joint Workshop 2024 @Budapest🇭🇺.
 * I will visit IIT @ Genova, University of Trento and Fondazione Bruno Kessler @ Trento🇮🇹.

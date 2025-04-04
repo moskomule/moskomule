@@ -1,6 +1,6 @@
 ### About!
 
-I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo).
+I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), senior research scientist at SB Intuitions.
 
 ### News
 

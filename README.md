@@ -4,8 +4,9 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), senior research scientist at 
 
 ### News
 
-* Our paper “An Empirical Study of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration” (co-first-authored with H. Naganuma) is accepted at TMLR.
-* I will attend NOW at Nicolaus Copernicus University, Toruń🇵🇱.
+* Our paper “An Empirical Study of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration” (co-first-authored with H. Naganuma) has been accepted at TMLR.
+* I will attend NOW @ Nicolaus Copernicus University, Toruń🇵🇱.
+* I quitted my position at RIKEN AIP and joined SB Intuitions as a senior research scientist.
 * I will visit The University of Melbourne🇦🇺.
 * I will attend ERCIM/JST Joint Workshop 2024 @Budapest🇭🇺.
 * I will visit IIT @ Genova, University of Trento and Fondazione Bruno Kessler @ Trento🇮🇹.

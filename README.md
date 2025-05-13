@@ -5,7 +5,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), senior research scientist at 
 ### News
 
 * Our paper “An Empirical Study of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration” (co-first-authored with H. Naganuma) is accepted at TMLR.
-* I will visit Nicolaus Copernicus University @ Torun, Poland🇵🇱.
+* I will attend NOW at Nicolaus Copernicus University, Toruń🇵🇱.
 * I will visit The University of Melbourne🇦🇺.
 * I will attend ERCIM/JST Joint Workshop 2024 @Budapest🇭🇺.
 * I will visit IIT @ Genova, University of Trento and Fondazione Bruno Kessler @ Trento🇮🇹.

@@ -1,9 +1,10 @@
 ### About!
 
-I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), senior research scientist at SB Intuitions.
+I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), Senior Research Scientist at SB Intuitions and Program-Specific Assistant Professor at Kyoto University.
 
 ### News
 
+* I joined Kyoto University as a program-specific assistant professor.
 * Our paper “An Empirical Study of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration” (co-first-authored with H. Naganuma) has been accepted at TMLR.
 * I will attend NOW @ Nicolaus Copernicus University, Toruń🇵🇱.
 * I quitted my position at RIKEN AIP and joined SB Intuitions as a senior research scientist.

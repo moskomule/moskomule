@@ -1,4 +1,4 @@
-<img width="658" height="202" alt="CleanShot 2026-01-22 at 22 28 32@2x" src="https://github.com/user-attachments/assets/9ff964f4-a452-407a-9cc1-6ccb67eea27b" />### About!
+### About!
 
 I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), Senior Research Scientist at SB Intuitions and Program-Specific Assistant Professor at Kyoto University.
 

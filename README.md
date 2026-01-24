@@ -4,12 +4,12 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), Senior Research Scientist at 
 
 ### News
 
-* Our paper "Provable Target Sample Complexity Improvements as Pre‑Trained Models Scale" (Fukuchi & Hataya & Matsui) has been accepted at AISTATS 2026.
-* I joined Kyoto University as a program-specific assistant professor. See you in Tangier🇲🇦!
+* Our paper "Provable Target Sample Complexity Improvements as Pre‑Trained Models Scale" (Fukuchi & Hataya & Matsui) has been accepted at AISTATS 2026. See you in Tangier🇲🇦!
+* I joined Kyoto University as a program-specific assistant professor. 
 * Our paper “An Empirical Study of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration” (co-first-authored with H. Naganuma) has been accepted at TMLR.
 * I will attend NOW @ Nicolaus Copernicus University, Toruń🇵🇱.
-* I quitted my position at RIKEN AIP and joined SB Intuitions as a senior research scientist.
-* I will visit The University of Melbourne🇦🇺.
+* I quitted position at RIKEN AIP and joined SB Intuitions as a senior research scientist.
+* I will visit the University of Melbourne🇦🇺.
 * I will attend ERCIM/JST Joint Workshop 2024 @Budapest🇭🇺.
 * I will visit IIT @ Genova, University of Trento and Fondazione Bruno Kessler @ Trento🇮🇹.
 * I will attend ECCV to organize [ECCV 2024 Workshop The Dark Side of Generative AIs and Beyond](https://sites.google.com/view/darksideofgenaiandbeyond).

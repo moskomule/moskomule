@@ -5,7 +5,7 @@ I'm [Ryuichiro Hataya, PhD](https://hataya.tokyo), Senior Research Scientist at 
 ### News
 
 * Our paper "Provable Target Sample Complexity Improvements as Pre‑Trained Models Scale" (Fukuchi & Hataya & Matsui) has been accepted at AISTATS 2026.
-* I joined Kyoto University as a program-specific assistant professor.
+* I joined Kyoto University as a program-specific assistant professor. See you in Tangier🇲🇦!
 * Our paper “An Empirical Study of Pre-trained Model Selection for Out-of-Distribution Generalization and Calibration” (co-first-authored with H. Naganuma) has been accepted at TMLR.
 * I will attend NOW @ Nicolaus Copernicus University, Toruń🇵🇱.
 * I quitted my position at RIKEN AIP and joined SB Intuitions as a senior research scientist.
